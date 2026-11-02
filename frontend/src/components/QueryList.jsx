@@ -1,0 +1,1 @@
+﻿// QueryList.jsx placeholder component

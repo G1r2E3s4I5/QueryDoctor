@@ -1,0 +1,26 @@
+# Python caches
+__pycache__/
+*.py[cod]
+# Virtual environments
+.env
+.venv/
+venv/
+# Environment files (keep .env.example tracked)
+.env*
+!.env.example
+# Node.js
+node_modules/
+# Build output
+/dist/
+# Logs
+*.log
+# Database dumps / SQLite
+*.sql
+*.sqlite3
+# IDE files
+.idea/
+.vscode/
+# OS files
+.DS_Store
+Thumbs.db
+

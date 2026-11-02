@@ -1,0 +1,1 @@
+﻿// PerformanceChart.jsx placeholder component

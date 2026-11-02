@@ -1,0 +1,1 @@
+﻿// SuggestionCard.jsx placeholder component
